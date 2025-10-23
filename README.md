@@ -4,11 +4,11 @@ Java 23 / NetBeans 23 / JDK 23
 Proyecto de estructura de datos
 
 INDICE
--Descripcion
--Requerimientos
--Instalacion
--Interfaz de usuario
--Desarrollo con IA
+- Descripcion
+- Requerimientos
+- Instalacion
+- Interfaz de usuario
+- Desarrollo con IA
 
 # Descripcion
 
